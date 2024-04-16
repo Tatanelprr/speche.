@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2876633187536015,
+          49.521169510323745
+        ]
+      },
+      "properties": {
+        "title": "tyfugihoj",
+        "description": "pçu_yotiè-ue(yt'z"
+      }
+    }
+  ]
+}
