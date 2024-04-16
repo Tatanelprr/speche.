@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1000754920055158,
+          49.492498656652
+        ]
+      },
+      "properties": {
+        "title": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1395576087050472,
+          49.49155087847882
+        ]
+      },
+      "properties": {
+        "title": "Chez moi",
+        "description": "moi"
+      }
+    }
+  ]
+}
