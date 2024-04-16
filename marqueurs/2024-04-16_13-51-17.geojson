@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.11706996832378991,
+          49.492331403013566
+        ]
+      },
+      "properties": {
+        "title": "rterterte",
+        "description": "tretr",
+        "created_at": "2024-04-16T11:51:17.789Z"
+      }
+    }
+  ]
+}
